@@ -1,0 +1,10 @@
+from_domain:
+  aws_key:
+  aws_secret_key:
+  domain_name:
+  zone_id:
+to_domain:
+  aws_key:
+  aws_secret_key:
+  domain_name:
+  zone_id:
